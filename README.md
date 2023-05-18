@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @pwwongaa
 - 👀 I’m interested in Bioinformatics!
-- 🌱 I’m currently learning Python and R programming.
+- 🌱 I’m currently learning Python, R, Julia and C++.
+- 🌱 I'm going to learn more about Cloud, Database, version controls, Docker image etc
 - 💞️ I’m looking to collaborate on bioinformatics topics.
 - 📫 How to reach me ...
 
