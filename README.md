@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Danny Wong – @pwwongaa
+# 👋 Hi, I’m Danny – @pwwongaa
 
 Bioinformatician & bioinformatics engineer specialising in robust pipelines for clinical genomics and multi-omics. I work with long/short-read sequencing (ONT & Illumina), automating workflows on Linux HPC and the cloud.
 
