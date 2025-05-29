@@ -6,8 +6,8 @@ Bioinformatician & bioinformatics engineer specialising in robust pipelines for 
 
 ## 🧬 What I Do
 
-- 🏥 Bioinformatician at NHS – building ONT WGS pipelines for diagnostics  
-- 🌐 Former Associate Scientist – deployed scalable pipelines on AWS for pathogen detection  
+- 🏥 Bioinformatician at Hospital – building bioinformatics pipelines on NGS and ONT data for clinical diagnostics  
+- 🌐 Former Associate Scientist – develop python pipelines and deploy scalable pipelines on AWS for pathogen detection  
 - 🎓 MSc in Bioinformatics – trained in genomics, machine learning and HPC computing  
 
 ---
