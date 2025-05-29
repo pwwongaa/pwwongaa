@@ -62,8 +62,6 @@ Bioinformatician & bioinformatics engineer specialising in robust pipelines for 
 ---
 
 ## 📫 Contact
-
-- ✉️ ddwongdd111@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/pwwongaaa)  
 - 📂 [GitHub CVs & Projects](https://github.com/pwwongaa)  
 
