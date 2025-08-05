@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Danny – @pwwongaa
+# 👋 Hi, I’m @pwwongaa
 
 Bioinformatician & bioinformatics engineer specialising in robust pipelines for clinical genomics and multi-omics. I work with NGS & ONT sequencing, automating workflows on Linux HPC and the Cloud.
 
