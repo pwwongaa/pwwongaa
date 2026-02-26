@@ -15,7 +15,7 @@ This GitHub so far is for developing my personal idea and making some fun tools
 ---
 
 ## 🛠️ Tech I Use
-**Programming Languages:** Python, R, Julia, C++, Java  
+**Programming Languages:** Python, R, Julia, C++, Rust
 **Tools:** Pandas, Biopython, Bash, Git, Conda/Mamba, uv, Polars 
 **Web Dev:** HTML, CSS, JS, React (Vite), Flask  
 **Infra & DevOps:** Docker, PostgreSQL, SQLAlchemy, Nextflow  
@@ -37,6 +37,8 @@ This GitHub so far is for developing my personal idea and making some fun tools
 - Nextflow, Docker, Airflow, Kafka, Spark
 
 **Machine Learning**  
+- AWS Certified AI Partitioner and Machine Learning Engineer - Associate
+- AWS SageMaker, BedRock
 - Applied ML on omics data (KNN, PCA, etc.)  
 - PyTorch on Mac MPS / NVIDIA GPU  
 - Hugging Face: LLMs, NLP, diffusion models  
