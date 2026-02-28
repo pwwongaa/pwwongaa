@@ -2,7 +2,7 @@
 
 Bioinformatician, bioinformatics engineer, data engineer specialising in robust pipelines for clinical genomics and multi-omics. I work with NGS & ONT sequencing, automating workflows on Linux HPC and the Cloud.
 
-This GitHub so far is for developing my personal idea and making some fun tools
+This GitHub so far is for developing my side projects and practising idea come up from my mind
 
 ---
 
@@ -54,8 +54,9 @@ This GitHub so far is for developing my personal idea and making some fun tools
 
 ## 📫 Contact
 
-Feel free to reach out for collaborations, ideas, or just to connect:  
+Feel free to reach out for job/collaborations/idea/connect
 🔗 [GitHub – Projects & CVs](https://github.com/pwwongaa)
+📧 Email: ddwongdd111@gmail.com
 
 ---
 
