@@ -1,63 +1,94 @@
-# 👋 Hi, I’m Danny 
+# 👋 Hi, I’m Danny
 
-Bioinformatician, bioinformatics engineer, data engineer specialising in robust pipelines for clinical genomics and multi-omics. I work with NGS & ONT sequencing, automating workflows on Linux HPC and the Cloud.
+Bioinformatician, bioinformatics engineer and data engineer focused on building robust, reproducible pipelines for clinical genomics, multi-omics, molecular data analysis and applied machine learning.
 
-This GitHub so far is for developing my side projects and practising idea come up from my mind
+I work with NGS, Oxford Nanopore sequencing, Linux/HPC systems, cloud infrastructure and full-stack scientific web applications. This GitHub is my learning and development space for bioinformatics, data engineering, cheminformatics, machine learning and AI-powered tools.
 
 ---
 
 ## 🧬 What I Do
-- A Bioinformatics Developer driven by passion and purpose
-- 🏥 Bioinformatician at hospital (WGS, diagnostics)
-- 🧪 Former Associate Scientist (R&D)
-- 🎓 MSc in Bioinformatics (UK)
+
+* 🤖 Bioinformatics developer driven by practical scientific problem-solving
+* 🏥 Clinical bioinformatician experience in WGS, NGS, ONT and diagnostic pipelines
+* 🧪 Former Associate Scientist in R&D and molecular biology workflows
+* 🎓 MSc Bioinformatics, UK
+* 🎓 BSc Chemistry, specialising in biomolecular chemistry, Hong Kong
+* 🔬 Interested in precision medicine, pharmacogenomics, molecular AI and scientific software engineering
 
 ---
 
 ## 🛠️ Tech I Use
+
 **Programming Languages:** Python, R, Julia, C++, Rust
-**Tools:** Pandas, Biopython, Bash, Git, Conda/Mamba, uv, Polars 
-**Web Dev:** HTML, CSS, JS, React (Vite), Flask  
-**Infra & DevOps:** Docker, PostgreSQL, SQLAlchemy, Nextflow  
-**Cloud & Systems:** AWS EC2, SLURM HPC, Ubuntu/macOS  
-**ML & AI:** scikit-learn, PyTorch, Hugging Face, Keras
+**Data & Scientific Tools:** Pandas, Polars, NumPy, Biopython, RDKit, Bash
+**Workflow & Reproducibility:** Git, Conda/Mamba, uv, Docker, Nextflow
+**Web Development:** HTML, CSS, JavaScript, React, Vite, Flask, FastAPI, Next.js
+**Databases & Backend:** PostgreSQL, SQLAlchemy, REST APIs
+**Cloud & Systems:** AWS EC2, SLURM HPC, Ubuntu, macOS
+**Machine Learning & AI:** scikit-learn, PyTorch, Keras, Hugging Face, LLMs, RAG, diffusion models
 
 ---
 
 ## 🌱 Currently Exploring & Active Learning
-**Genomics & Bioinformatics**  
-- Clinical WGS & variant interpretation  
-- Multi-omics: transcriptomics, epigenomics, proteomics  
-- Recent: precision oncology, pharmacogenomics
 
-**Software & Data Engineering**  
-- Full-stack dev (Flask, React, FastAPI)  
-- CI/CD, Agile, reproducible workflows  
-- Cloud/HPC deployment, ETL pipelines  
-- Nextflow, Docker, Airflow, Kafka, Spark
+### Genomics & Bioinformatics
 
-**Machine Learning**  
-- AWS Certified AI Partitioner and Machine Learning Engineer - Associate
-- AWS SageMaker, BedRock
-- Applied ML on omics data (KNN, PCA, etc.)  
-- PyTorch on Mac MPS / NVIDIA GPU  
-- Hugging Face: LLMs, NLP, diffusion models  
-- Kaggle projects, CoLab pipelines
+* Clinical WGS and variant interpretation
+* NGS and ONT pipeline development
+* Transcriptomics and expression analysis
+* Multi-omics: genomics, transcriptomics, epigenomics and proteomics
+* Precision oncology and pharmacogenomics
+
+### Software & Data Engineering
+
+* Full-stack scientific web applications
+* Flask, FastAPI, React, Next.js and Express.js
+* ETL pipelines, data validation and reproducible workflows
+* CI/CD, Agile development and automated testing
+* Docker, Nextflow, Airflow, Kafka, Spark and cloud/HPC deployment
+
+### Machine Learning & AI
+
+* AWS AI and machine learning learning path
+* AWS SageMaker and Amazon Bedrock
+* Applied ML for omics and molecular data
+* Classical ML: PCA, KNN, regression, classification and model evaluation
+* Deep learning with PyTorch on Mac MPS and NVIDIA GPU
+* Hugging Face models for NLP, LLMs and generative AI
+* Kaggle, Colab and end-to-end ML pipelines
+
+### Cheminformatics & Molecular AI
+
+* Basic cheminformatics with RDKit
+* Molecular representation: SMILES, InChI, molecular graphs and fingerprints
+* Molecular descriptors: physicochemical, topological and structural features
+* QSAR modelling for molecular property prediction
+* Drug-likeness, Lipinski rules, ADMET and toxicity screening
+* Molecular similarity search and chemical space visualisation
+* Deep learning for molecules using PyTorch, DeepChem and graph neural networks
+* GNN models for molecular graphs, including GCN, GAT and message passing networks
+* Chemistry NLP, molecular language models and SMILES-based transformers
+* Future interest: molecular generation, docking integration and AI-assisted molecular design
 
 ---
 
-## Current Personal Project working on
-- 🌐 **Personal Website** – portfolio, blog, tech stack & CV - practice Next.js and Express.js
-- 🧬 **Transcriptomics Expression Table WebApp** (`transp-web_app`) - React.js + FastAPI
-- 🤖 **Some other AI/ML Web Platform** - NLP/RAG/LLM/Gen AI practice for building all in one Web + AI Tool platform
+## 🚧 Current Personal Projects
+
+* 🌐 **Personal Website** — portfolio, blog, tech stack and CV; practising Next.js and Express.js
+* 🧬 **Transcriptomics Expression Table WebApp** (`transp-web_app`) — React + FastAPI web application for biological expression data
+* 🧪 **Cheminformatics Learning Paradise** — RDKit, molecular descriptors, fingerprints, QSAR, GNNs and molecular AI practice projects
+* 🤖 **AI / ML Web Platform** — NLP, RAG, LLM and generative AI practice for building an all-in-one Web + AI tool platform
+* 📊 **Machine Learning Practice Repositories** — hands-on projects for tabular ML, molecular ML, deep learning and model deployment
+
 ---
 
 ## 📫 Contact
 
-Feel free to reach out for job/collaborations/idea/connect
+Feel free to reach out for jobs, collaborations, project ideas or technical discussions.
+
 🔗 [GitHub – Projects & CVs](https://github.com/pwwongaa)
-📧 Email: ddwongdd111@gmail.com
+📧 Email: [ddwongdd111@gmail.com](mailto:ddwongdd111@gmail.com)
 
 ---
 
-> _Life is amazing — even more so with data._
+> *Life is amazing — even more so with data.*
