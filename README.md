@@ -10,6 +10,7 @@ I work with NGS, Oxford Nanopore sequencing, Linux/HPC systems, cloud infrastruc
 
 * 🤖 Bioinformatics developer driven by practical scientific problem-solving
 * 🏥 Clinical bioinformatician experience in WGS, NGS, ONT and diagnostic pipelines
+* 🏥 Clinical data engineering for Clinical Trials and Imaging HRCT data
 * 🧪 Former Associate Scientist in R&D and molecular biology workflows
 * 🎓 MSc Bioinformatics, UK
 * 🎓 BSc Chemistry, specialising in biomolecular chemistry, Hong Kong
